@@ -2,7 +2,6 @@ import "./current-weather.css";
 import "../current-weather/current-weather.css";
 
 const CurrentWeather = ({ data }) => {
-  console.log(data, 'data')
   return (
     <div className="weather">
       <div className="top">
