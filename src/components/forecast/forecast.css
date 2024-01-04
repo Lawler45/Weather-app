@@ -33,5 +33,12 @@
 }
 
 .min-max {
-    color: #757575;
+  color: #757575;
+}
+
+.daily-details-grid {
+  grid-row-gap: 0;
+  grid-column-gap: 15px;
+  column-gap: 15px;
+  display: grid;
 }
