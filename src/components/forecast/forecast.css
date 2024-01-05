@@ -4,7 +4,7 @@
 }
 
 .daily-item {
-  background-color: #f5f5f5;
+  background-color: #1c8ca4;
   border-radius: 15px;
   height: 40px;
   margin: 5px;
@@ -20,7 +20,7 @@
 }
 
 .day {
-  color: #212121;
+  color: white;
   flex: 1 1;
   font-weight: 600;
   margin-left: 15px;
@@ -30,10 +30,11 @@
   flex: 1 1;
   margin-right: 15px;
   text-align: right;
+  color: white;
 }
 
 .min-max {
-  color: #757575;
+  color: white;
 }
 
 .daily-details-grid {
@@ -55,8 +56,9 @@
 }
 
 .daily-details-grid-item label:first-child {
-  color: #757575;
+  color: white;
 }
 .daily-details-grid-item label:last-child {
-  color: #212121;
+  color: white;
 }
+
