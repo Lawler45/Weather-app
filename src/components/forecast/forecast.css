@@ -1,6 +1,7 @@
 .title {
   font-size: 23;
   font-weight: 700;
+  margin-left: 1vh;
 }
 
 .daily-item {
@@ -56,9 +57,8 @@
 }
 
 .daily-details-grid-item label:first-child {
-  color: white;
+  color: black;
 }
 .daily-details-grid-item label:last-child {
-  color: white;
+  color: black;
 }
-
